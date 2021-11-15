@@ -6,9 +6,11 @@
         flex-direction: column;
         transition: all 0.7s ease-out;
         height: 480px;
+        background-color: black;
     }
     .rightNav{
         text-align: center;
+        background-color: black;
     }
     .box-main{
         flex-direction: column-reverse;
