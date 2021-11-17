@@ -12,6 +12,11 @@
         text-align: center;
         background-color: black;
     }
+    
+    .firstSection{
+        height: 745px;
+    }
+    
     .box-main{
         flex-direction: column-reverse;
         max-width: 100%;
@@ -20,6 +25,11 @@
     #search{
         width: 100%;
     }
+    
+    .firstHalf{
+        padding-top: 180px;
+    }
+    
     .burger{
         display: block;
     }
@@ -40,5 +50,8 @@
     }
     .paras{
         padding: 0px;
+    }
+    .text-footer{
+        background-color: black;
     }
 }
